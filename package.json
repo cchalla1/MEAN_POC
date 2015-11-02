@@ -6,7 +6,7 @@
 	"main":	"censorText",
 	"repository":	{
 		"type":	"git",
-		"url":	"http://github.com/bwdayley/nodebook/tree/master/ch03/censorify"
+		"url":	"https://github.com/cchalla1/MEAN_POC/blob/censorify"
 	},
 	"keywords":	[
 		"censor",
